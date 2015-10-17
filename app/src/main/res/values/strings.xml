@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EduRevClass-ERC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About Us</string>
+    <string name="title_activity_cse">cse</string>
+    <string name="title_activity_ise">ise</string>
+    <string name="title_activity_mech">Mech</string>
+    <string name="title_activity_ece">Ece</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="semstring">  SEMESTERS</string>
+    <string name="firststring">First</string>
+    <string name="secondstring">second</string>
+    <string name="thirdstring">third</string>
+    <string name="semsstring">SEMESTERS</string>
+    <string name="firsttstring">first</string>
+    <string name="secondsstring">second</string>
+    <string name="thirdsstring">third</string>
+    <string name="semssstring">SEMESTERS</string>
+    <string name="firsttting">first</string>
+    <string name="secondssstring">second</string>
+    <string name="thirdssstring">third</string>
+    <string name="title_activity_hosa">hosa</string>
+    <string name="isesem">SEMESTERS</string>
+    <string name="isebut1">first</string>
+    <string name="isebut2">second</string>
+    <string name="isebut3">third</string>
+    <string name="moto">EduRev</string>
+    <string name="teamhesaru">Ghost Files</string>
+    <string name="teamhesaru1">Version 1.0</string>
+    <string name="teamhesaru2">Developers</string>
+    <string name="teamhesaru3">Technical Help</string>
+    <string name="teamhesaru4">Sandesh S</string>
+</resources>

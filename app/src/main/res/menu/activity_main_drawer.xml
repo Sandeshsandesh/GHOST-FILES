@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/CSE"
+            android:title="CSE" />
+        <item android:id="@+id/ISE"
+            android:title="ISE" />
+        <item android:id="@+id/MECH"
+            android:title="MECH" />
+        <item android:id="@+id/ECE"
+            android:title="ECE" />
+    </group>
+
+
+</menu>
